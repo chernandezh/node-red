@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-12-02T10:47:13.810Z,38.1638,-118.0765,6.4,2.5,ml,28,70.34,0.032,0.17,nn,ANA,2020-12-02T10:51:36.654Z,"25 km S of Mina, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2020-12-02T10:42:39.260Z,38.1688,-118.0743,0,2.6,ml,22,119.1,0.012,0.29,nn,JOSE,2020-12-02T10:46:12.854Z,"24 km S of Mina, Nevada",earthquake,,17.5,,,automatic,nn,nn
+2020-12-02T10:41:01.770Z,38.175,-118.0695,7.6,3.6,ml,54,41.59,0.023,0.1,nn,ZURI,2020-12-02T10:52:59.040Z,"24 km S of Mina, Nevada",earthquake,,1,,,automatic,nn,nn
